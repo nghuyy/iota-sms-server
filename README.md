@@ -4,6 +4,6 @@
 https://moreapps.vnapps.com
 # Release:
 1.0.13:
- + Đưa sms vào hàng đợi backgroud service để gởi lại khi mạng hoặc server khả dụng
+ + Đưa sms vào hàng đợi background service để gởi lại khi mạng hoặc server khả dụng
  + BootupReciver
  + Hỗ trợ Android 4.0.3 or Up 
